@@ -1,2 +1,2 @@
 # Hotel-Reservation-App
-Hotel reservation application with test files built with Java
+Hotel reservation application, complete with test files and exception handling, built with Java.
